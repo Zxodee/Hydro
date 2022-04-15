@@ -2,6 +2,7 @@ local url = "https://raw.githubusercontent.com/Zxodee/Hydro/main/Scripts"
 
 local games = {
     [4483381587] = "Baseplate";
+    [5602055394] = "Hood Modded";
 }
 
 for i,v in next, games do
